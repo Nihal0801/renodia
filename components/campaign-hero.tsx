@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import Image from 'next/image';
+import Image from '@/components/site-image';
 import Link from 'next/link';
 import { ArrowDown, ArrowRight, Pause, Play } from 'lucide-react';
 

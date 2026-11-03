@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useRef, useState } from 'react';
-import Image from 'next/image';
+import Image from '@/components/site-image';
 import { SlidersHorizontal, X, ZoomIn } from 'lucide-react';
 import { categories, collections, money, type Product } from '@/data/catalogue';
 import { ProductCard } from './shop';

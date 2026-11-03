@@ -4,9 +4,11 @@ I first worked on Renodia Diamonds as a freelance web developer from December 20
 
 This repository is a separate portfolio rebuild in Next.js. I wanted to keep the details that made Renodia recognizable, especially the handwritten wordmark, the indigo opening, and the seven collections. The biggest design change is how people discover pieces. Hover over **Collections**, then move across the handwritten names to preview each collection’s jewellery without leaving the page.
 
-[Open the live Next.js demo](https://renodia-portfolio.fleecyburl2.chatgpt.site) · [Visit the original WordPress site](https://renodia.ascassy.com/)
+[Open the live demo on GitHub Pages](https://nihal0801.github.io/renodia/) · [Visit the original WordPress site](https://renodia.ascassy.com/)
 
-![Renodia homepage with the handwritten headline and rings against an indigo background](artifacts/01-desktop-home.png)
+![The Collections dropdown switching its jewellery previews as the pointer moves across Blush, Van Gogh, Rare Red, and Signature Renodia Blue](artifacts/collections-hover.gif)
+
+[See the full homepage](artifacts/01-desktop-home.png)
 
 ## What to try
 

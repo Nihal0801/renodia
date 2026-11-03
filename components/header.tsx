@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState, type FocusEvent, type ReactNode } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
+import Image from '@/components/site-image';
 import { usePathname } from 'next/navigation';
 import { ArrowRight, ChevronDown, ChevronLeft, ChevronRight, Heart, Menu, Search, ShoppingBag, X } from 'lucide-react';
 import { collections, productsFor, collectionPath, productPath, money } from '@/data/catalogue';

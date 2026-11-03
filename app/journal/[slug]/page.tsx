@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from '@/components/site-image';
 import { notFound } from 'next/navigation';
 import { articles } from '@/data/catalogue';
 import { Breadcrumbs } from '@/components/breadcrumbs';

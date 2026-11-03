@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useSyncExternalStore, useState } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
+import Image from '@/components/site-image';
 import { Heart, Minus, Plus, ArrowRight, Search, X } from 'lucide-react';
 import { collections, products, collectionPath, productBySlug, productPath, money, type Product } from '@/data/catalogue';
 

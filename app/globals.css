@@ -280,13 +280,13 @@ dialog::backdrop { background:#070b17a0; }
 
 @font-face {
   font-family:"Qwitcher Grypen";
-  src:url('/fonts/QwitcherGrypen-Regular.ttf') format('truetype');
+  src:url('../public/fonts/QwitcherGrypen-Regular.ttf') format('truetype');
   font-weight:400;
   font-display:swap;
 }
 @font-face {
   font-family:Allura;
-  src:url('/fonts/Allura-Regular.ttf') format('truetype');
+  src:url('../public/fonts/Allura-Regular.ttf') format('truetype');
   font-display:swap;
 }
 .wordmark { display:grid; width:115px; height:66px; place-items:center; }
@@ -298,7 +298,7 @@ dialog::backdrop { background:#070b17a0; }
 .campaign.hero {
   justify-content:center;
   align-items:center;
-  background:#0b073b url('/images/renodia-indigo.webp') center/cover;
+  background:#0b073b url('../public/images/renodia-indigo.webp') center/cover;
   text-align:center;
 }
 .campaign.hero::after { background:radial-gradient(ellipse at center,#120d4726 15%,#08062499 100%); }

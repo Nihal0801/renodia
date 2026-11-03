@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from '@/components/site-image';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { articles, categories, collections, collectionPath, type Collection } from '@/data/catalogue';
